@@ -36,3 +36,4 @@ The project consists of the following main sections:
 3. Open `index.html` in your preferred web browser.
 
 
+# Live demo: https://mohamed-kamal1.github.io/Advanced-Blog/
